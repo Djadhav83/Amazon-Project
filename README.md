@@ -1,4 +1,4 @@
 # Amazon-Project
 This is my first Git Repository.
 <br>
-Author-Darshan Jadhav
+Author-Darshan (Jadhv)
